@@ -2,7 +2,8 @@
 
 
 <h3> Background </h3> 
-#### Covid 19 or the so-called Coronavirus Disease of 2019 is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). In December, 2019, the first case of the novel Coronavirus was identified in Wuhan, China. Since then, the virus has had a deadly outbreak in the entire world and is currently an ongoing pandemic. COVID-19 spreads when people breathe in air polluted by the droplets and small airborne particles containing this virus.
+
+Covid 19 or the so-called Coronavirus Disease of 2019 is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). In December, 2019, the first case of the novel Coronavirus was identified in Wuhan, China. Since then, the virus has had a deadly outbreak in the entire world and is currently an ongoing pandemic. COVID-19 spreads when people breathe in air polluted by the droplets and small airborne particles containing this virus.
 
 #### Some of the symptoms of Covid-19 include - 
 <ul>
@@ -14,7 +15,7 @@
 </ul>
 These symptoms may be seen in the infected person in one to fourteen days after getting exposed to the virus
 
-#### A number of effectual vaccines have been introduced which are gradually slowing down the spread of the virus. 
+A number of effectual vaccines have been introduced which are gradually slowing down the spread of the virus. 
 
 <h3> About the project </h3> 
 

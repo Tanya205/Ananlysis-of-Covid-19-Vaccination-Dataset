@@ -10,7 +10,8 @@
   <li> loss of smell and taste </li>
   <li> breathing problems </li> 
 </ul>
-#### These symptoms may be seen in the infected person in one to fourteen days after getting exposed to the virus
+These symptoms may be seen in the infected person in one to fourteen days after getting exposed to the virus
+
 #### A number of effectual vaccines have been introduced which are gradually slowing down the spread of the virus. In this research, we aim to predict the number of people/ Indians who would get fully vaccinated against the coronavirus by a particular time period of the year. the main question arises that how many people would get fully vaccinated by a specific time of the year. For its prediction, data has been gathered from a reputed source – “Our World in Data”. The above-mentioned datasets have been used to study the vaccination drives which are currently going on in India. The Covid-19 vaccination datasets have been used with different regression algorithms from the Scikit-learn library, to observe how they perform
 
 

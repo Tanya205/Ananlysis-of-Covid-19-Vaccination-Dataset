@@ -19,7 +19,21 @@ A number of effectual vaccines have been introduced which are gradually slowing 
 
 <h3> About the project </h3> 
 
-In this research, we aim to predict the number of people/ Indians who would get fully vaccinated against the coronavirus by a particular time period of the year. the main question arises that how many people would get fully vaccinated by a specific time of the year. For its prediction, data has been gathered from a reputed source – “Our World in Data”. The above-mentioned datasets have been used to study the vaccination drives which are currently going on in India. The Covid-19 vaccination datasets have been used with different regression algorithms from the Scikit-learn library, to observe how they perform
+In this research, we aim to predict the number of people/ Indians who would get fully vaccinated against the coronavirus by a particular time period of the year. the main question arises that how many people would get fully vaccinated by a specific time of the year. For its prediction, data has been gathered from a reputed source – “Our World in Data”. The above-mentioned datasets have been used to study the vaccination drives which are currently going on in India. The Covid-19 vaccination datasets have been used with different regression algorithms from the Scikit-learn library, to observe how they perform.
+
+<h2> Names of some of the used regression algorithms are - </h2>
+<ul>
+  <li> Lasso Regression </li>
+  <li> Ridge Regression </li>
+  <li> LARS Lasso Regression </li>
+  <li> Elastic Net Regression </li>
+  <li> Bayesian Ridge Regression </li>
+  <li> Automatic Relevance Determination Regression </li>
+  <li> Tweedie Regression </li>
+  <li> Stochastic Gradient Descent Regression </li>
+  <li> Passive Aggressive Regression </li>
+  <li> Linear Regression </li>
+</ul>
 
 
 
